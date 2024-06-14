@@ -34,5 +34,11 @@ Requisitos (deve-se utilizar):
 
 ### Resultado Final
 
-<img src="" alt="">
+<img src="img/01.png" alt="index">
+<img src="img/02.png" alt="FAQ">
+<img src="img/03.png" alt="Serviços">
+<img src="img/04.png" alt="Quem Somos">
+<img src="img/05.png" alt="Noticias">
+<img src="img/06.png" alt="Formulario Gamer">
+<img src="img/07.png" alt="Contato">
 
