@@ -1,0 +1,36 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+body{
+  background-color: rgb(15, 42, 42);
+  color: aliceblue;
+}
+
+a{
+  padding-left: 45px;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+h1{
+  text-align: center;
+}
+
+.box{
+  width: 45%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 40px;
+  text-align: center;
+  background-image: url(fundo00.avif);
+  color: aliceblue;
+}
+
+footer{
+  text-align: center;
+  margin-top: 20px;
+}
+
